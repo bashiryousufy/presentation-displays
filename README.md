@@ -63,7 +63,3 @@ void secondaryDisplayMain() {
 
 You can take a look at our example to learn more about how the plugin works
 
-#### Test on Sunmi-D2 device
-
-![The example app running in android](https://github.com/VNAPNIC/presentation-displays/blob/master/Sequence_small.gif?raw=true)
-
